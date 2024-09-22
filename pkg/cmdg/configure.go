@@ -26,10 +26,10 @@ var (
 	// Populate these for a binary-only release.
 
 	// DefaultClientID is the Oauth client ID.
-	DefaultClientID     = ""
+	DefaultClientID     = "5492351438-8rpmanb5tieg0aqng9gsiuekt7hhubd3.apps.googleusercontent.com"
 
 	// DefaultClientSecret is the Oauth client secret.
-	DefaultClientSecret = ""
+	DefaultClientSecret = "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"
 )
 
 var (
